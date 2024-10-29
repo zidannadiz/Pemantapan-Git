@@ -14,4 +14,4 @@ if ((zidan = "Muhamad Zidan")) {
 }
 
 console.log("Fitur A");
-console.log("Belajar Konflik DIF");
+console.log("Belajar");
