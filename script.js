@@ -14,3 +14,4 @@ if ((zidan = "Muhamad Zidan")) {
 }
 
 console.log("Fitur A");
+console.log("Belajar");
