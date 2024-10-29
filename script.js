@@ -12,3 +12,5 @@ if ((zidan = "Muhamad Zidan")) {
 } else {
   console.log("Kamu Salah");
 }
+
+console.log("Fitur A");
