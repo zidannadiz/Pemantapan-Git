@@ -14,8 +14,7 @@ if ((zidan = "Muhamad Zidan")) {
 }
 
 console.log("Fitur A");
-<<<<<<< HEAD
-console.log("Belajar");
+console.log("Belajar Adalah Hal Yang Menyenangkan");
 function makan() {
   console.log("Bagaimana adalah Sebuah Pertanyaan");
   const zidan = Math.random();
@@ -29,5 +28,3 @@ function makan() {
     );
   }
 }
-=======
->>>>>>> parent of ceb5703 (Belajar Konflik)
