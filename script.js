@@ -14,6 +14,7 @@ if ((zidan = "Muhamad Zidan")) {
 }
 
 console.log("Fitur A");
+<<<<<<< HEAD
 console.log("Belajar");
 function makan() {
   console.log("Bagaimana adalah Sebuah Pertanyaan");
@@ -28,3 +29,5 @@ function makan() {
     );
   }
 }
+=======
+>>>>>>> parent of ceb5703 (Belajar Konflik)
