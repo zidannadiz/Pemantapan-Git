@@ -15,3 +15,16 @@ if ((zidan = "Muhamad Zidan")) {
 
 console.log("Fitur A");
 console.log("Belajar");
+function makan() {
+  console.log("Bagaimana adalah Sebuah Pertanyaan");
+  const zidan = Math.random();
+  if (zidan === 0.2) {
+    console.log(
+      'Benar, Sebuah Pertanyaan yang bisa dijawab dengan "Siap" adalah "Apakah Anda Siap?"'
+    );
+  } else {
+    console.log(
+      'Salah, Sebuah Pertanyaan yang bisa dijawab dengan "Siap" adalah "Apakah Anda Siap?"'
+    );
+  }
+}
