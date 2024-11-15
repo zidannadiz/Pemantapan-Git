@@ -1,7 +1,1 @@
-// ! Peringatan
-
-function Peringatan() {
-  console.log("Peringatan!");
-}
-
-const sd = "Santri SD"
+console.log(081)
