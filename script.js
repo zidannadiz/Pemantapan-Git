@@ -28,3 +28,5 @@ function makan() {
     );
   }
 }
+
+const gus = 108
