@@ -1,0 +1,1 @@
+const fitura = 10
