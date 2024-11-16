@@ -7,7 +7,7 @@ const promise = new Promise((resolve, reject) => {});
 
 const zidan = "Muhamad Zidan";
 
-if ((zidan = "Muhamad Zidan")) {
+if (zidan = "Muhamad Zidan") {
   console.log("Kamu Benar");
 } else {
   console.log("Kamu Salah");
